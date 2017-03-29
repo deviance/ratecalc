@@ -1,0 +1,2 @@
+# ratecalc
+Electricity cost calculator
